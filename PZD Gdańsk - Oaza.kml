@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>OZ PZD Gdańsk - ogród Oaza w Gdańsku/Sopocie</name>
+    <description>Rodzinne Ogrody Działkowe Oaza w Gdańsku/Sopocie</description>
+
+    <Style id="poly-0000FF-3000-115-nodesc-normal">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>73ff0000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <StyleMap id="poly-0000FF-3000-115-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0000FF-3000-115-nodesc-normal</styleUrl>
+      </Pair>
+    </StyleMap>
+
+    <Folder>
+      <name>Oaza</name>
+      <Placemark>
+        <name><![CDATA[ROD "Oaza" w Gdańsku/Sopocie]]></name>
+        <styleUrl>#poly-0000FF-3000-115-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.584383,54.429591,0
+                18.583524,54.429104,0
+                18.584765,54.428131,0
+                18.586417,54.427407,0
+                18.585988,54.427169,0
+                18.583843,54.425959,0
+                18.585001,54.425122,0
+                18.585409,54.425185,0
+                18.589314,54.427506,0
+                18.588263,54.428355,0
+                18.588585,54.428692,0
+                18.587537,54.429666,0
+                18.586099,54.430527,0
+                18.584383,54.429591,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
