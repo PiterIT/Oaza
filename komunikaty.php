@@ -6,6 +6,15 @@
 
 		<div id="content_right">
 			<h1>Komunikaty:</h1>
+
+			<br />
+			<p style="text-align: left"><b>W dniu 18 kwietnia 2018 r. zostanie otwarta woda na sezon letni. Przed tym terminem prosimy o przygotowanie instalacji do otwarcia wody poprzez zamknięcie zaworów przed licznikami i sprawdzenie szczelności po otwarciu wody. Prosimy również o zwrócenie uwagi na sąsiednie działki.</b></p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Za Zarząd</b></p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Prezes</b></p>
+			<p style="text-align: left"><b>Gdańsk 08-04-2018 r.</b></p>
+			
+			<hr style="border: 1px solid #000000">
+
 			<p><h2><b><font color="red">U W A G A ! ! !</font></b></h2></p><br />
 			<p style="text-align: justify">&nbsp;&nbsp;&nbsp;&nbsp;W dniu 27.10.2017 r. (piątek) około godziny 11:30 na terenie naszego ogrodu okradziono jednego z działowców. 
 			Złodziej wykorzystał moment, jak poszkodowany był po drugiej stronie altany i w tym momencie zakradł się do części gospodarczej i ukradł saszetkę w której były m.in. klucze od mieszkania, telefon i pieniądze. 
@@ -22,7 +31,7 @@
 			W dniu 04-11-2017 o godzinie 11:00 w świetlicy zapraszamy na otwarte posiedzenie Zarządu w tej sprawie w celu zatwierdzenia projektu. 
 			W nowym projekcie zostaną zmienione numery działek (<a href="numery.jpg" target="_blank"><b><u>tu są nowe numery</u></b></a>) oraz metraże na niektórych działkach zgodnie z rzeczywistością.</p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prezes</p>
-			<p style="text-align: left">Gdańsk 11-10-2017 r.</p><br />
+			<p style="text-align: left">Gdańsk 11-10-2017 r.</p>
 
 			<hr style="border: 1px solid #000000">
 
@@ -32,7 +41,7 @@
 			W treści powiadomienia należy wpisać nr. wodomierza jego stan faktyczny, numer działki z datą odczytu. Na kartki czekamy do dnia 15 listopada 2017 r. Po tym terminie woda zużyta będzie rozliczona jako woda różnicowa (ryczałtem)</b></p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Za Zarząd</p>
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prezes</p>
-			<p style="text-align: left">Gdańsk 16-09-2017 r.</p><br />
+			<p style="text-align: left">Gdańsk 16-09-2017 r.</p>
 			
 			<hr style="border: 1px solid #000000">
 

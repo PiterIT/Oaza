@@ -11,10 +11,14 @@
 <?php include('includes/body.php');?>
 
 		<div id="content_right">
-			<h1>ROD "Oaza" w Gdańsku/Sopocie</h1><br />
+			<h1>ROD "Oaza" w Gdańsku/Sopocie</h1>
 			<h4>Gdańsk, ul. Jelitkowska 71 <a href="https://www.google.com/maps/d/embed?mid=1q-AFB1k8QJiKGpx_rgKZuCwa1r0" width="640" height="480" target="_blank">- zobacz na mapie</a><br />
-			Dyżur Zarządu w każdą pierwszą sobotę miesiąca w godzinach 10:00 - 12:00</h4><br />
+			Dyżur Zarządu w każdą pierwszą sobotę miesiąca w godzinach 10:00 - 12:00</h4>
 			
+			<a href="komunikaty.php"><h3 style="color: red">UWAGA!!! - Nowy komunikat - kliknij tutaj</h3></a>
+
+			<hr style="border: 1px solid #000000">
+
 			<h2 style="color: red"><b><i>ZAWIADOMIENIE</i></b></h2>
 			<h4><b><i>Zarząd Rodzinnego Ogrodu Działkowego „OAZA” w Gdańsku zawiadamia, że w dniu 28  kwietnia  2018 r. w Domu działkowca przy ul. Jelitkowskiej 71 w Gdańsku</i></b></h4>
 			<h4><b><i>Odbędzie się Walne Zebranie Sprawozdawcze</i></b></h4>
