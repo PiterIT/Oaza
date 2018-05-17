@@ -5,7 +5,7 @@
 <?php include('includes/body.php');?>
 
 		<div id="content_right">
-			<h1>Walne zebranie</h1><br />
+			<h1>Walne zebranie</h1>
 			<h2 style="color: red"><b><i>ZAWIADOMIENIE</i></b></h2>
 			<h4><b><i>Zarząd Rodzinnego Ogrodu Działkowego „OAZA” w Gdańsku zawiadamia, że w dniu 28  kwietnia  2018 r. w Domu działkowca przy ul. Jelitkowskiej 71 w Gdańsku</i></b></h4>
 			<h4><b><i>Odbędzie się Walne Zebranie Sprawozdawcze</i></b></h4>
