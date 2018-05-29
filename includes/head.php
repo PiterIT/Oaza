@@ -18,4 +18,5 @@
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script src="js/timer.js"></script>
 	<script type="module" src="js/slider.js"></script>
+	<script src="js/prefixfree.min.js"></script>
 </head>
